@@ -1,0 +1,27 @@
+h3{
+    font-family: 'DM Serif Display', serif;
+    color: #4b4b4b;
+    transition: all .5s;
+}
+h3:hover{
+    color: #039be5;
+}
+.brand-logo{
+    font-family: 'Kaushan Script', cursive;
+}
+h6{
+    color: #818181;
+}
+nav{
+    margin-bottom: 50px;
+}
+.blog-content{
+    margin: 100px 0;
+}
+.blog-content:after{
+    padding-bottom: 60px;
+    display: block;
+    content: "";
+    border-bottom: 1px dashed #dadada;
+    width: 100%;
+}
